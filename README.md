@@ -1,5 +1,3 @@
-Certainly! Here's a sample README file that you can use to explain how you approached the problem and provide instructions for using your code on GitHub:
-
 ---
 
 # Amazon Product Scraper
